@@ -66,6 +66,7 @@ function autoimports(
     sort::Bool = true,
 )
     verbose = verbose | dry_run
+    project = as_project_toml_path(project)
 
     if verbose
         @info "Analyzing and modifying $(length(paths)) files." project sort dry_run
