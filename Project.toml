@@ -10,6 +10,7 @@ JuliaVariables = "b14d175d-62b4-44ba-8fb7-3064adc8c3ec"
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 
 [compat]
+JuliaVariables = "0.1"
 julia = "1.2"
 
 [extras]
