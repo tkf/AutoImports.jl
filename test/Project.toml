@@ -1,0 +1,6 @@
+[deps]
+AutoImports = "6cdfc548-8a3a-4bf5-b37e-a5fc82b5e48c"
+CSTParser = "00ebfdb7-1f24-5e51-bd34-a7502290713f"
+JuliaVariables = "b14d175d-62b4-44ba-8fb7-3064adc8c3ec"
+NameResolution = "71a1bf82-56d0-4bbc-8a3c-48b961074391"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
